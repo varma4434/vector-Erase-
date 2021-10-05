@@ -1,1 +1,1 @@
-# vector-Erase-
+# vector-Erase- hackerrank solution in c++
